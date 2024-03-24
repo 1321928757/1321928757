@@ -16,8 +16,8 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=1321928757&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1321928757&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=1321928757&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1321928757&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
