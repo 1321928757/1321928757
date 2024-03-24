@@ -26,6 +26,20 @@
 <div align="center"><img src="https://raw.gitmirror.com/1321928757/action/output/github-contribution-grid-snake.svg" /></div>
 <br/>  
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/1321928757" target="_blank">
+<img src=https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github alt=github height="40" style="margin-right: 10px;" />
+</a>
+ &nbsp;&nbsp;&nbsp;
+<a href="https://gitee.com/liushijie-kitie" target="_blank">
+<img src=https://img.shields.io/badge/-Gitee-C71D23?style=flat-square&logo=gitee alt=gitee height="40" style="margin-right: 10px;" />
+</a>
+ &nbsp;&nbsp;&nbsp;
+<a href="https://blog.csdn.net/qq_35716689?type=blog" target="_blank">
+<img src=https://img.shields.io/badge/-CSDN-EF4223?style=flat-square&logo=csdn alt=csdn height="40" style="margin-right: 10px;" />
+</a>
+</div>  
 
 ## Github Streak  
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=1321928757" /> </div>
