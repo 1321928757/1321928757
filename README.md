@@ -20,10 +20,12 @@
 <div align="center">🌱我目前正在深入学习Mybatis源码与Kubernetes的使用🌱</div>  
 <br/>  
 <div align="center">❓如有任何疑问和想法，欢迎在博客或者git留言交流❓</div>  
-
 <br/>  
 
-<div align="center"><img src="https://raw.githubusercontent.com/1321928757/action/output/github-contribution-grid-snake.svg" /></div>
+
+<div align="center"><img src="https://raw.gitmirror.com/1321928757/action/output/github-contribution-grid-snake.svg" /></div>
+<br/>  
+
 
 ## Github Streak  
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=1321928757" /> </div>
