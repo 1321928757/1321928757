@@ -9,22 +9,38 @@
 </div>
 
 <div align="center">
-<img src="https://luckysj-1314434715.cos.ap-shanghai.myqcloud.com/4a6b1ee2-779b-4b0c-8145-589ab002a122.jpg" align="center" height="200" width="200" />
+<img  src="https://luckysj-1314434715.cos.ap-shanghai.myqcloud.com/4a6b1ee2-779b-4b0c-8145-589ab002a122.jpg" align="center" height="200" width="200" />
 </div>  
   
 
 ### <div align="center">✨我是刘仕杰，目标是成为一名优秀的全栈工程师✨</div>  
-  
+<br/>  
+<div align="center">🔭 酷爱编程，喜欢开发一些有趣的项目，兴趣驱动式学习🔭 </div>  
+<br/>  
+<div align="center">🌱我目前正在深入学习Mybatis源码与Kubernetes的使用🌱</div>  
+<br/>  
+<div align="center">❓如有任何疑问和想法，欢迎在博客或者git留言交流❓</div>  
 
-- 🔭 酷爱编程，喜欢开发一些有趣的项目，兴趣驱动式学习  
-  
-
-- 🌱我目前正在深入学习Mybatis源码与Kubernetes的使用  
-  
-
-- ❓ 如有任何疑问和想法，欢迎在博客或者git留言交流  
 <br/>  
 
+
+## Github Streak  
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=1321928757" /> </div>
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+
+## Github Stats  
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=1321928757&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1321928757&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
+</div>
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+
+## Github Score  
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=1321928757" /> </div>
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -72,25 +88,6 @@
 </td></tr></table>  
 
 <br/>  
-
-## Github Stats  
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=1321928757&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1321928757&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
-</div>
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
-
-
-## Github Streak  
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=1321928757" /> </div>
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
-
-## Github Score  
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=1321928757" /> </div>
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
 
 ## Github statistics
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=tokyo-night" /> </div>
