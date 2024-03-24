@@ -1,7 +1,4 @@
 <div align="center">
-  <h1 >✨✨你好！这里是LuckySJ的个人主页✨✨</h1>
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
@@ -10,6 +7,11 @@
   <div>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=System.out.println(%22Hello%2C%20World%22);&center=true&size=27" />
   </div>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+  <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=1321928757" /> </div>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
