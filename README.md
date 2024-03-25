@@ -141,7 +141,7 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/1321928757/Concurrent-MulThread-Demo" target="_blank">🔥多线程实战案例汇总</a></td>
+    <td><a href="https://github.com/1321928757/Concurrent-MulThread" target="_blank">🔥多线程实战案例汇总</a></td>
     <td>CSDN多线程实战文章的源码，记录了个人多线程学习的一些实用代码片段，手写线程池更新中~</td>
     <td>
       <img width="150" src="https://img.shields.io/github/stars/1321928757/Concurrent-MulThread-Demo?style=social" alt="stars"/>
