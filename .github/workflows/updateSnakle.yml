@@ -27,8 +27,8 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add README.md
-          git diff --staged --quiet || git commit -m "action每日自动更新动画缓存"
-          git push --set-upstream origin $(git branch --show-current)
+          git diff --staged --quiet || git commit -m "Update image URL query to bypass cache"
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/1321928757/1321928757.git
         env:
           GIT_ASKPASS: echo
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  
