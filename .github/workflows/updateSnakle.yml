@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false
+          persist-credentials: false  # 确保不使用内建的凭证
 
       - name: Update README
         run: |
@@ -21,10 +21,14 @@ jobs:
           DATE=$(date +'%Y%m%d')
           # 使用sed命令更新README.md中的图片URL
           sed -i "s/github-contribution-grid-snake.svg?new=[0-9]\+/github-contribution-grid-snake.svg?new=$DATE/" README.md
-          
+
       - name: Commit and push if changed
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add README.md
-          git diff --staged --quiet || (git commit -m "Update image URL query to bypass cache" && git push)
+          git diff --staged --quiet || git commit -m "action每日自动更新动画缓存"
+          git push --set-upstream origin $(git branch --show-current)
+        env:
+          GIT_ASKPASS: echo
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  
