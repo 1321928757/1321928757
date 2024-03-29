@@ -27,7 +27,7 @@ jobs:
           git config user.name 'github-actions'
           git config user.email 'github-actions@github.com'
           git add README.md
-          git diff --staged --quiet || git commit -m "Update image URL query to bypass cache"
+          git diff --staged --quiet || git commit -m "自动更新图片URL缓存"
           # 设置远程仓库的 URL，包括令牌
           git remote set-url origin https://$GITHUB_TOKEN@github.com/1321928757/1321928757.git
           # 推送更改
