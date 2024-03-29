@@ -24,8 +24,7 @@
 <br/>  
 
 <!-- 贪吃蛇动图 -->
-<div align="center"><img src="https://raw.gitmirror.com/1321928757/action/output/github-contribution-grid-snake.svg" /></div>
-<br/>  
+
 
 <!-- 联系方式 -->
 ## Connect with me  
