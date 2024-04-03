@@ -64,6 +64,15 @@
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
+<!-- 贡献曲线图 -->
+## Github contribution
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
+</div>
+
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+
 <!-- 技能表 -->
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -195,8 +204,4 @@
 
 </div>
 
-<!-- 贡献曲线图 -->
-## Github contribution
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=tokyo-night" /> </div>
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
+
