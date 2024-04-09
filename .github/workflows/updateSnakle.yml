@@ -24,8 +24,8 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config user.name 'github-actions'
-          git config user.email 'github-actions@github.com'
+          git config user.name '1321928757'
+          git config user.email '1321928757@qq.com'
           git add README.md
           git diff --staged --quiet || git commit -m "自动更新图片URL缓存"
           # 设置远程仓库的 URL，包括令牌
