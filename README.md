@@ -127,12 +127,16 @@
     <th>项目名称</th>
     <th>项目描述</th>
     <th>Stars</th>
+    <th>Forks</th>
   </tr>
   <tr>
     <td><a href="https://github.com/1321928757/big-market" target="_blank">🔥营销抽奖平台(未完结)-平台促销利器</a></td>
     <td>营销抽奖系统是各个互联网公司用于拉新、促活、留存、转化的重要手段，此项目针对促销场景，搭建为各平台促销提效的营销抽奖平台</td>
     <td >
       <img width="150"  src="https://img.shields.io/github/stars/1321928757/big-market?style=social" alt="stars"/>
+    </td>
+    <td >
+      <img width="150"  src="https://img.shields.io/github/forks/1321928757/big-market?style=social" alt="stars"/>
     </td>
   </tr>
    <tr>
@@ -141,12 +145,18 @@
     <td>
       <img width="150" src="https://img.shields.io/github/stars/1321928757/chatgpt-data-ddd?style=social" alt="stars"/>
     </td>
+     <td>
+      <img width="150" src="https://img.shields.io/github/forks/1321928757/chatgpt-data-ddd?style=social" alt="stars"/>
+    </td>
   </tr>
   <tr>
     <td><a href="https://github.com/1321928757/chatgpt-sdk-java" target="_blank">🔥Chatgpt服务会话SDK</a></td>
     <td>OpenAI 开放API的 会话 SDK，参考mybatis框架的sql会话工厂模型实现，只需配置，开箱即用~</td>
     <td>
       <img width="150" src="https://img.shields.io/github/stars/1321928757/chatgpt-sdk-java?style=social" alt="stars"/>
+    </td>
+    <td>
+      <img width="150" src="https://img.shields.io/github/forks/1321928757/chatgpt-sdk-java?style=social" alt="stars"/>
     </td>
   </tr>
     
@@ -156,12 +166,18 @@
     <td>
       <img width="150" src="https://img.shields.io/github/stars/1321928757/chatglm-sdk-java?style=social" alt="stars"/>
     </td>
+    <td>
+      <img width="150" src="https://img.shields.io/github/forks/1321928757/chatglm-sdk-java?style=social" alt="stars"/>
+    </td>
   </tr>
   <tr>
     <td><a href="https://github.com/1321928757/Concurrent-MulThread" target="_blank">🔥多线程实战案例汇总</a></td>
     <td>CSDN多线程实战文章的源码，记录了个人多线程学习的一些实用代码片段，手写线程池更新中~</td>
     <td>
       <img width="150" src="https://img.shields.io/github/stars/1321928757/Concurrent-MulThread-Demo?style=social" alt="stars"/>
+    </td>
+    <td>
+      <img width="150" src="https://img.shields.io/github/forks/1321928757/Concurrent-MulThread-Demo?style=social" alt="stars"/>
     </td>
   </tr>
   <tr>
@@ -170,12 +186,28 @@
     <td>
       <img width="150" src="https://img.shields.io/github/stars/1321928757/open-api-platform?style=social" alt="stars"/>
     </td>
+    <td>
+      <img width="150" src="https://img.shields.io/github/forks/1321928757/open-api-platform?style=social" alt="stars"/>
+    </td>
+  </tr>
+ <tr>
+    <td><a href="https://github.com/1321928757/go-web-wire-starter" target="_blank">🔥Go-Wire-Web脚手架</a></td>
+    <td>在Go-Gin-Web脚手架的基础上使用Go-wire对整体项目进行了依赖注入重构</td>
+    <td>
+      <img width="150" src="https://img.shields.io/github/stars/1321928757/go-web-wire-starter?style=social" alt="stars"/>
+    </td>
+    <td>
+      <img width="150" src="https://img.shields.io/github/forks/1321928757/go-web-wire-starter?style=social" alt="stars"/>
+    </td>
   </tr>
  <tr>
     <td><a href="https://github.com/1321928757/LuckySJVank" target="_blank">🔥LuckySJ博客</a></td>
     <td>个人较早时期开发的个人博客，整体采用Springboot2.xx+Vue3实现</td>
     <td>
-      <img width="150" src="https://img.shields.io/github/stars/1321928757/LuckySJVank ?style=social" alt="stars"/>
+      <img width="150" src="https://img.shields.io/github/stars/1321928757/LuckySJVank?style=social" alt="stars"/>
+    </td>
+   <td>
+      <img width="150" src="https://img.shields.io/github/forks/1321928757/LuckySJVank?style=social" alt="stars"/>
     </td>
   </tr>
   <tr>
@@ -184,6 +216,9 @@
     <td>
       <img width="150" src="https://img.shields.io/github/stars/1321928757/go-oj-system?style=social" alt="stars"/>
     </td>
+    <td>
+      <img width="150" src="https://img.shields.io/github/forks/1321928757/go-oj-system?style=social" alt="stars"/>
+    </td>
   </tr>
   <tr>
     <td><a href="https://github.com/1321928757/go-web-starter" target="_blank">🔥Go-Gin-Web脚手架</a></td>
@@ -191,14 +226,11 @@
     <td>
       <img width="150" src="https://img.shields.io/github/stars/1321928757/go-web-starter?style=social" alt="stars"/>
     </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/1321928757/go-web-wire-starter" target="_blank">🔥Go-Wire-Web脚手架</a></td>
-    <td>在Go-Gin-Web脚手架的基础上使用Go-wire对整体项目进行了依赖注入重构</td>
     <td>
-      <img width="150" src="https://img.shields.io/github/stars/1321928757/go-web-wire-starter?style=social" alt="stars"/>
+      <img width="150" src="https://img.shields.io/github/forks/1321928757/go-web-starter?style=social" alt="stars"/>
     </td>
   </tr>
+  
   <!-- 重复以上行来添加更多项目 -->
 </table>
 
