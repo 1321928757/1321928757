@@ -130,7 +130,7 @@
     <th>Forks</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/1321928757/big-market" target="_blank">🔥营销抽奖平台(未完结)-平台促销利器</a></td>
+    <td><a href="https://github.com/1321928757/big-market" target="_blank">🔥营销抽奖平台-平台促销利器</a></td>
     <td>营销抽奖系统是各个互联网公司用于拉新、促活、留存、转化的重要手段，此项目针对促销场景，搭建为各平台促销提效的营销抽奖平台</td>
     <td >
       <img width="150"  src="https://img.shields.io/github/stars/1321928757/big-market?style=social" alt="stars"/>
