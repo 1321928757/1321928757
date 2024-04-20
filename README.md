@@ -10,7 +10,9 @@
 
 <!-- 头像 -->
 <div align="center">
+<img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
 <img  src="https://luckysj-1314434715.cos.ap-shanghai.myqcloud.com/4a6b1ee2-779b-4b0c-8145-589ab002a122.jpg" align="center" height="200" width="200" />
+<img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
 </div>  
 
 <!-- 个人介绍 -->
@@ -66,9 +68,26 @@
 
 <!-- 贡献曲线图 -->
 ## Github contribution
-<div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
-</div>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+
+<!-- 3D个人贡献资料图 -->
+<picture>
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" /> -->
+  <img src="https://github.com/1321928757/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
+</picture>
 
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
@@ -115,8 +134,6 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
 
 <!-- 项目介绍 -->
 ## My Projects  
@@ -230,10 +247,14 @@
       <img width="150" src="https://img.shields.io/github/forks/1321928757/go-web-starter?style=social" alt="stars"/>
     </td>
   </tr>
-  
   <!-- 重复以上行来添加更多项目 -->
 </table>
 
+<!-- 粉红色汇总表 -->
+<img width="120%" src="https://repobeats.axiom.co/api/embed/c577be31087fb4f31886421e18b2d222ec98aa8f.svg" />
+
+<!-- 最后的技能长图 -->
+<!--  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>  -->
 </div>
 
 
