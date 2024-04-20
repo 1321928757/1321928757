@@ -133,8 +133,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
 <!-- 项目介绍 -->
 ## My Projects  
 <div align="center">
@@ -247,10 +245,14 @@
       <img width="150" src="https://img.shields.io/github/forks/1321928757/go-web-starter?style=social" alt="stars"/>
     </td>
   </tr>
-  
   <!-- 重复以上行来添加更多项目 -->
 </table>
 
+<!-- 粉红色汇总表 -->
+<img width="120%" src="https://repobeats.axiom.co/api/embed/c577be31087fb4f31886421e18b2d222ec98aa8f.svg" />
+
+<!-- 最后的技能长图 -->
+<!--  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>  -->
 </div>
 
 
