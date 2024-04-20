@@ -66,9 +66,16 @@
 
 <!-- 贡献曲线图 -->
 ## Github contribution
-<div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
-</div>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
 
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
