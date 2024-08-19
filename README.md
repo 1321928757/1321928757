@@ -26,7 +26,7 @@
 <br/>  
 
 <!-- 贪吃蛇动图 -->
-<div align="center"><img src="https://raw.gitmirror.com/1321928757/action/output/github-contribution-grid-snake.svg?new=20240818" /></div>
+<div align="center"><img src="https://raw.gitmirror.com/1321928757/action/output/github-contribution-grid-snake.svg?new=20240819" /></div>
 <br/>  
 
 <!-- 联系方式 -->
