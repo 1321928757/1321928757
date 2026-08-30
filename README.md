@@ -15,15 +15,6 @@
 <img width="120" src="https://raw.githubusercontent.com/1321928757/static-resources/main/cxyduck.gif" alt="avatar decoration" />
 </div>  
 
-<!-- 个人介绍 -->
-### <div align="center">✨我是刘仕杰，目标是成为一名优秀的全栈工程师✨</div>  
-<br/>  
-<div align="center">🔭 酷爱编程，喜欢开发一些有趣的项目，兴趣驱动式学习🔭 </div>  
-<br/>  
-<div align="center">🌱我目前正在持续学习Kubernetes的使用🌱</div>  
-<br/>  
-<div align="center">❓如有任何疑问和想法，欢迎在博客或者git留言交流❓</div>  
-<br/>  
 
 <!-- 贪吃蛇动图：由 1321928757/action 的 GitHub Actions 每日生成到 output 分支 -->
 <div align="center"><img src="https://raw.githubusercontent.com/1321928757/action/output/github-contribution-grid-snake.svg?v=20260830" alt="GitHub contribution snake animation" /></div>
@@ -142,107 +133,35 @@
     <th>Forks</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/1321928757/big-market" target="_blank">🔥LuckyDraw抽奖平台-营销促销利器</a></td>
-    <td>抽奖系统是各个互联网公司用于拉新、促活、留存、转化的重要手段，LuckyDraw抽奖平台针对促销场景，搭建为各平台促销提效的营销抽奖平台</td>
-    <td >
-      <img width="150"  src="https://img.shields.io/github/stars/1321928757/big-market?style=social" alt="stars"/>
-    </td>
-    <td >
-      <img width="150"  src="https://img.shields.io/github/forks/1321928757/big-market?style=social" alt="stars"/>
-    </td>
-  </tr>
-   <tr>
-    <td><a href="https://github.com/1321928757/chatgpt-data-ddd" target="_blank">🔥大语言模型服务平台-工作提效工具</a></td>
-    <td>基于DDD架构设计的大语言模型服务平台，使用了个人开发的chatgpt-sdk-java与chatglm-sdk-java服务会话SDK进行请求应答，支持额度消费与在线购买额度(支付对接支付宝沙箱)</td>
+    <td><a href="https://github.com/1321928757/dsh-mysql" target="_blank">🔥dsh-mysql</a></td>
+    <td>DeepSeek Harness 的 MySQL 连接器插件，支持在设置中配置连接、在会话中切换数据库，并为 Agent 提供受保护的查询和数据库工具。</td>
     <td>
-      <img width="150" src="https://img.shields.io/github/stars/1321928757/chatgpt-data-ddd?style=social" alt="stars"/>
+      <img width="150" src="https://img.shields.io/github/stars/1321928757/dsh-mysql?style=social" alt="dsh-mysql stars"/>
     </td>
-     <td>
-      <img width="150" src="https://img.shields.io/github/forks/1321928757/chatgpt-data-ddd?style=social" alt="stars"/>
+    <td>
+      <img width="150" src="https://img.shields.io/github/forks/1321928757/dsh-mysql?style=social" alt="dsh-mysql forks"/>
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/1321928757/chatgpt-sdk-java" target="_blank">🔥Chatgpt服务会话SDK</a></td>
-    <td>OpenAI 开放API的 会话 SDK，参考mybatis框架的sql会话工厂模型实现，只需配置，开箱即用~</td>
+    <td><a href="https://github.com/1321928757/dsh-prompt-polish" target="_blank">🔥dsh-prompt-polish</a></td>
+    <td>DeepSeek Harness 的输入栏提示词优化插件，支持多种优化策略和语言，可选会话上下文，并提供结果确认、历史记录与设置管理。</td>
     <td>
-      <img width="150" src="https://img.shields.io/github/stars/1321928757/chatgpt-sdk-java?style=social" alt="stars"/>
+      <img width="150" src="https://img.shields.io/github/stars/1321928757/dsh-prompt-polish?style=social" alt="dsh-prompt-polish stars"/>
     </td>
     <td>
-      <img width="150" src="https://img.shields.io/github/forks/1321928757/chatgpt-sdk-java?style=social" alt="stars"/>
-    </td>
-  </tr>
-    
-  <tr>
-    <td><a href="https://github.com/1321928757/chatglm-sdk-java" target="_blank">🔥清华智谱服务会话SDK</a></td>
-    <td>清华智谱 ChatGLM 会话 SDK，参考mybatis框架的sql会话工厂模型实现。只需配置，开箱即用~</td>
-    <td>
-      <img width="150" src="https://img.shields.io/github/stars/1321928757/chatglm-sdk-java?style=social" alt="stars"/>
-    </td>
-    <td>
-      <img width="150" src="https://img.shields.io/github/forks/1321928757/chatglm-sdk-java?style=social" alt="stars"/>
+      <img width="150" src="https://img.shields.io/github/forks/1321928757/dsh-prompt-polish?style=social" alt="dsh-prompt-polish forks"/>
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/1321928757/Concurrent-MulThread" target="_blank">🔥多线程实战案例汇总</a></td>
-    <td>CSDN多线程实战文章的源码，记录了个人多线程学习的一些实用代码片段，手写线程池更新中~</td>
+    <td><a href="https://github.com/1321928757/dsh-codex-subscription" target="_blank">🔥dsh-codex-subscription（Fork / 二次开发）</a></td>
+    <td>基于上游项目的 Fork，持续迭代 DeepSeek Harness 的 Codex 订阅模型适配功能。<br />上游项目：<a href="https://github.com/yequ172672/dsh-codex-subscription" target="_blank">dsh-codex-subscription</a></td>
     <td>
-      <img width="150" src="https://img.shields.io/github/stars/1321928757/Concurrent-MulThread-Demo?style=social" alt="stars"/>
+      <img width="150" src="https://img.shields.io/github/stars/1321928757/dsh-codex-subscription?style=social" alt="dsh-codex-subscription stars"/>
     </td>
     <td>
-      <img width="150" src="https://img.shields.io/github/forks/1321928757/Concurrent-MulThread-Demo?style=social" alt="stars"/>
+      <img width="150" src="https://img.shields.io/github/forks/1321928757/dsh-codex-subscription?style=social" alt="dsh-codex-subscription forks"/>
     </td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/1321928757/open-api-platform" target="_blank">🔥微服务API开放平台</a></td>
-    <td>基于微服务架构搭建的API开放平台，支持用户调用平台提供的开放API，并且支持额度消费，签到邀请赢取额度等功能</td>
-    <td>
-      <img width="150" src="https://img.shields.io/github/stars/1321928757/open-api-platform?style=social" alt="stars"/>
-    </td>
-    <td>
-      <img width="150" src="https://img.shields.io/github/forks/1321928757/open-api-platform?style=social" alt="stars"/>
-    </td>
-  </tr>
- <tr>
-    <td><a href="https://github.com/1321928757/go-web-wire-starter" target="_blank">🔥Go-Wire-Web脚手架</a></td>
-    <td>在Go-Gin-Web脚手架的基础上使用Go-wire对整体项目进行了依赖注入重构</td>
-    <td>
-      <img width="150" src="https://img.shields.io/github/stars/1321928757/go-web-wire-starter?style=social" alt="stars"/>
-    </td>
-    <td>
-      <img width="150" src="https://img.shields.io/github/forks/1321928757/go-web-wire-starter?style=social" alt="stars"/>
-    </td>
-  </tr>
- <tr>
-    <td><a href="https://github.com/1321928757/LuckySJVank" target="_blank">🔥LuckySJ博客</a></td>
-    <td>个人较早时期开发的个人博客，整体采用Springboot2.xx+Vue3实现</td>
-    <td>
-      <img width="150" src="https://img.shields.io/github/stars/1321928757/LuckySJVank?style=social" alt="stars"/>
-    </td>
-   <td>
-      <img width="150" src="https://img.shields.io/github/forks/1321928757/LuckySJVank?style=social" alt="stars"/>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/1321928757/go-oj-system" target="_blank">🔥Go-Oj-System</a></td>
-    <td>基于Golang语言开发的oj在线判题系统，基于自己搭建的Go-Gin-Web脚手架开发</td>
-    <td>
-      <img width="150" src="https://img.shields.io/github/stars/1321928757/go-oj-system?style=social" alt="stars"/>
-    </td>
-    <td>
-      <img width="150" src="https://img.shields.io/github/forks/1321928757/go-oj-system?style=social" alt="stars"/>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/1321928757/go-web-starter" target="_blank">🔥Go-Gin-Web脚手架</a></td>
-    <td>基于Gin，Gorm，Viper等技术封装的Golang Web开发脚手架</td>
-    <td>
-      <img width="150" src="https://img.shields.io/github/stars/1321928757/go-web-starter?style=social" alt="stars"/>
-    </td>
-    <td>
-      <img width="150" src="https://img.shields.io/github/forks/1321928757/go-web-starter?style=social" alt="stars"/>
-    </td>
-  </tr>
-  <!-- 重复以上行来添加更多项目 -->
 </table>
 
 <!-- 粉红色汇总表 -->
