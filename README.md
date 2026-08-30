@@ -162,6 +162,16 @@
       <img width="150" src="https://img.shields.io/github/forks/1321928757/dsh-codex-subscription?style=social" alt="dsh-codex-subscription forks"/>
     </td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/1321928757/dsh-plugin-skills" target="_blank">🔥dsh-plugin-skills</a></td>
+    <td>面向 DeepSeek Harness 插件开发的可复用技能集合，涵盖插件构建、Web UI 设计、README 编写、发布流程和验证规范。</td>
+    <td>
+      <img width="150" src="https://img.shields.io/github/stars/1321928757/dsh-plugin-skills?style=social" alt="dsh-plugin-skills stars"/>
+    </td>
+    <td>
+      <img width="150" src="https://img.shields.io/github/forks/1321928757/dsh-plugin-skills?style=social" alt="dsh-plugin-skills forks"/>
+    </td>
+  </tr>
 </table>
 
 <!-- 粉红色汇总表 -->
