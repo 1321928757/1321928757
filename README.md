@@ -1,18 +1,18 @@
 <!-- 动态打字效果 -->
 <div align="center">
   <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);&center=true&size=27" alt="JavaScript Hello World" />
   </div>
   <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=System.out.println(%22Hello%2C%20World%22);&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=System.out.println(%22Hello%2C%20World%22);&center=true&size=27" alt="Java Hello World" />
   </div>
 </div>
 
 <!-- 头像 -->
 <div align="center">
-<img width="120" src="https://raw.githubusercontent.com/1321928757/static-resources/main/cxyduck.gif" alt="avatar decoration" />
-<img  src="https://luckysj-1314434715.cos.ap-shanghai.myqcloud.com/4a6b1ee2-779b-4b0c-8145-589ab002a122.jpg" align="center" height="200" width="200" />
-<img width="120" src="https://raw.githubusercontent.com/1321928757/static-resources/main/cxyduck.gif" alt="avatar decoration" />
+<img width="80" src="https://raw.githubusercontent.com/1321928757/static-resources/main/cxyduck.gif" alt="avatar decoration" />
+<img src="https://luckysj-1314434715.cos.ap-shanghai.myqcloud.com/4a6b1ee2-779b-4b0c-8145-589ab002a122.jpg" align="center" height="180" width="180" alt="Profile avatar" />
+<img width="80" src="https://raw.githubusercontent.com/1321928757/static-resources/main/cxyduck.gif" alt="avatar decoration" />
 </div>  
 
 
@@ -37,13 +37,13 @@
 </div>  
 
 <!-- 个人打卡记录 -->
-## Github Streak  
+## GitHub Streak
 <div align="center"> <img src="https://streak-stats.demolab.com/?user=1321928757" alt="GitHub streak stats" /> </div>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
 <!-- star 语言占比等统计：使用 actively maintained 的 GitHub Stats Extended 公共实例 -->
-## Github Stats  
+## GitHub Stats
 <div align="center">
   <img height="137px" src="https://github-stats-extended.vercel.app/api?username=1321928757&hide_title=true&hide_border=true&show_icons=true&line_height=21" alt="GitHub stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=1321928757&hide_title=true&hide_border=true&layout=compact&langs_count=6" alt="Top languages" />
@@ -52,13 +52,13 @@
 <div>&nbsp;</div>
 
 <!-- 奖杯墙：官方公共实例目前受配额/账单影响，使用维护者列出的备用实例 -->
-## Github Score  
+## GitHub Trophies
 <div align="center"> <img src="https://trophy.ryglcloud.net/?username=1321928757" alt="GitHub profile trophies" /> </div>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
 <!-- 贡献曲线图：使用仍可用的汇总卡片服务（包含贡献趋势） -->
-## Github contribution
+## GitHub Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1321928757&theme=github_dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1321928757&theme=github" />
@@ -72,7 +72,7 @@
 <picture>
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" /> -->
-  <img src="https://raw.githubusercontent.com/1321928757/action/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution profile" />
+  <img width="100%" src="https://raw.githubusercontent.com/1321928757/action/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution profile" />
 </picture>
 
 <!-- for beauty 留个空行好看点 -->
@@ -80,7 +80,7 @@
 
 <!-- 技能表 -->
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table width="100%"><tr><td valign="top" width="33%">
 
 <!-- 前端技能 -->
 ### Frontend  
@@ -125,12 +125,12 @@
 ## My Projects  
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
-    <th>项目名称</th>
-    <th>项目描述</th>
-    <th>Stars</th>
-    <th>Forks</th>
+    <th width="22%">项目名称</th>
+    <th width="58%">项目描述</th>
+    <th width="10%">Stars</th>
+    <th width="10%">Forks</th>
   </tr>
   <tr>
     <td><a href="https://github.com/1321928757/dsh-mysql" target="_blank">🔥dsh-mysql</a></td>
@@ -153,8 +153,8 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/1321928757/dsh-codex-subscription" target="_blank">🔥dsh-codex-subscription（Fork / 二次开发）</a></td>
-    <td>基于上游项目的 Fork，持续迭代 DeepSeek Harness 的 Codex 订阅模型适配功能。<br />上游项目：<a href="https://github.com/yequ172672/dsh-codex-subscription" target="_blank">dsh-codex-subscription</a></td>
+    <td><a href="https://github.com/1321928757/dsh-codex-subscription" target="_blank">🔥dsh-codex-subscription</a></td>
+    <td>Fork / 二次开发项目，持续迭代 DeepSeek Harness 的 Codex 订阅模型适配功能。<br />上游项目：<a href="https://github.com/yequ172672/dsh-codex-subscription" target="_blank">dsh-codex-subscription</a></td>
     <td>
       <img width="150" src="https://img.shields.io/github/stars/1321928757/dsh-codex-subscription?style=social" alt="dsh-codex-subscription stars"/>
     </td>
@@ -165,7 +165,7 @@
 </table>
 
 <!-- 粉红色汇总表 -->
-<img width="120%" src="https://repobeats.axiom.co/api/embed/c577be31087fb4f31886421e18b2d222ec98aa8f.svg" />
+<img width="100%" src="https://repobeats.axiom.co/api/embed/c577be31087fb4f31886421e18b2d222ec98aa8f.svg" alt="Repository activity" />
 
 <!-- 最后的技能长图 -->
 <!--  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>  -->
