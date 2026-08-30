@@ -10,9 +10,9 @@
 
 <!-- 头像 -->
 <div align="center">
-<img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
+<img width="120" src="https://raw.githubusercontent.com/1321928757/static-resources/main/cxyduck.gif" alt="avatar decoration" />
 <img  src="https://luckysj-1314434715.cos.ap-shanghai.myqcloud.com/4a6b1ee2-779b-4b0c-8145-589ab002a122.jpg" align="center" height="200" width="200" />
-<img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
+<img width="120" src="https://raw.githubusercontent.com/1321928757/static-resources/main/cxyduck.gif" alt="avatar decoration" />
 </div>  
 
 <!-- 个人介绍 -->
@@ -25,8 +25,8 @@
 <div align="center">❓如有任何疑问和想法，欢迎在博客或者git留言交流❓</div>  
 <br/>  
 
-<!-- 贪吃蛇动图 -->
-<div align="center"><img src="https://raw.gitmirror.com/1321928757/action/output/github-contribution-grid-snake.svg?new=20260830" /></div>
+<!-- 贪吃蛇动图：由 1321928757/action 的 GitHub Actions 每日生成到 output 分支 -->
+<div align="center"><img src="https://raw.githubusercontent.com/1321928757/action/output/github-contribution-grid-snake.svg?v=20260830" alt="GitHub contribution snake animation" /></div>
 <br/>  
 
 <!-- 联系方式 -->
@@ -47,37 +47,32 @@
 
 <!-- 个人打卡记录 -->
 ## Github Streak  
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=1321928757" /> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=1321928757" alt="GitHub streak stats" /> </div>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
-<!-- star 语言占比等统计 -->
+<!-- star 语言占比等统计：使用 actively maintained 的 GitHub Stats Extended 公共实例 -->
 ## Github Stats  
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=1321928757&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1321928757&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
+  <img height="137px" src="https://github-stats-extended.vercel.app/api?username=1321928757&hide_title=true&hide_border=true&show_icons=true&line_height=21" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=1321928757&hide_title=true&hide_border=true&layout=compact&langs_count=6" alt="Top languages" />
 </div>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
-<!-- 奖杯墙 -->
+<!-- 奖杯墙：官方公共实例目前受配额/账单影响，使用维护者列出的备用实例 -->
 ## Github Score  
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=1321928757" /> </div>
+<div align="center"> <img src="https://trophy.ryglcloud.net/?username=1321928757" alt="GitHub profile trophies" /> </div>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
-<!-- 贡献曲线图 -->
+<!-- 贡献曲线图：使用仍可用的汇总卡片服务（包含贡献趋势） -->
 ## Github contribution
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1321928757&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1321928757&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1321928757&theme=github" alt="GitHub contribution summary" />
+</picture>
 
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
@@ -86,7 +81,7 @@
 <picture>
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" /> -->
-  <img src="https://github.com/1321928757/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img src="https://raw.githubusercontent.com/1321928757/action/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution profile" />
 </picture>
 
 <!-- for beauty 留个空行好看点 -->

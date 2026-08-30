@@ -1,9 +1,17 @@
-name: Update Image URL
+name: Update image cache URL
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天凌晨运行
+    - cron: '0 0 * * *' # 每天凌晨运行（UTC）
   workflow_dispatch:
+
+# 仅更新 README 中蛇图的缓存参数，使用仓库自带 GITHUB_TOKEN 推送。
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
 
 jobs:
   update-readme:
@@ -11,27 +19,28 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          persist-credentials: false  # 确保不使用内建的凭证
+          fetch-depth: 1
 
-      - name: Update README
+      - name: Update README cache URL
+        shell: bash
         run: |
-          # 获取当前日期
-          DATE=$(date +'%Y%m%d')
-          # 使用sed命令更新README.md中的图片URL
-          sed -i "s/github-contribution-grid-snake.svg?new=[0-9]\+/github-contribution-grid-snake.svg?new=$DATE/" README.md
+          set -euo pipefail
+          date_utc=$(date -u +'%Y%m%d')
+          sed -E -i "s#(github-contribution-grid-snake\.svg\?v=)[0-9]+#\1${date_utc}#" README.md
+          grep -q 'github-contribution-grid-snake.svg?v=' README.md
 
       - name: Commit and push if changed
+        shell: bash
         run: |
-          git config user.name '1321928757'
-          git config user.email '1321928757@qq.com'
+          set -euo pipefail
+          if git diff --quiet -- README.md; then
+            echo 'README 已是当天版本，无需提交。'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git diff --staged --quiet || git commit -m "自动更新图片URL缓存"
-          # 设置远程仓库的 URL，包括令牌
-          git remote set-url origin https://$GITHUB_TOKEN@github.com/1321928757/1321928757.git
-          # 推送更改
-          git push origin HEAD:main
-        env:
-          GIT_ASKPASS: echo
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  
+          git commit -m 'chore: refresh image cache URL'
+          git push origin HEAD:${{ github.event.repository.default_branch }}
