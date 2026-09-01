@@ -17,7 +17,7 @@
 
 
 <!-- 贪吃蛇动图：由 1321928757/action 的 GitHub Actions 每日生成到 output 分支 -->
-<div align="center"><img src="https://raw.githubusercontent.com/1321928757/action/output/github-contribution-grid-snake.svg?v=20260831" alt="GitHub contribution snake animation" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/1321928757/action/output/github-contribution-grid-snake.svg?v=20260901" alt="GitHub contribution snake animation" /></div>
 <br/>  
 
 <!-- 联系方式 -->
